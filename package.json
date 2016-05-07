@@ -1,0 +1,14 @@
+{
+  "name": "rnBlog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.25.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  }
+}
