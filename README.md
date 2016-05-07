@@ -10,3 +10,9 @@ React native starter project with latest React-Native with Redux.
 - go to the project folder
 - run `npm install`
 
+### TODO
+
+- [ ] Unit tests
+
+
+happy coding :)
